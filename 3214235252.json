@@ -1,17 +1,17 @@
 {
-  "admin": {
+  "owner": {
     "nama": "apostle",
-    "password": "apostle",
-    "role": "apostle"
+    "password": "ownerpass",
+    "role": "apostleowner"
   },
-  "user1": {
-    "nama": "Tester 1",
+  "plus": {
+    "nama": "reiji",
+    "password": "reiji",
+    "role": "apostleplus"
+  },
+  "user": {
+    "nama": "test",
     "password": "test",
-    "role": "test"
-  },
-  "user2": {
-    "nama": "Tester 2",
-    "password": "test2",
-    "role": "test2"
+    "role": "apostle"
   }
 }
