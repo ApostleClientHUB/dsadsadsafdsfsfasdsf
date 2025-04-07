@@ -1,13 +1,16 @@
 {
   "admin": {
+    "nama": "apostle",
     "password": "apostle",
     "role": "apostle"
   },
   "user1": {
+    "nama": "Tester 1",
     "password": "test",
     "role": "test"
   },
   "user2": {
+    "nama": "Tester 2",
     "password": "test2",
     "role": "test2"
   }
